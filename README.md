@@ -1,9 +1,5 @@
 # **Hi 👋, I'm Stefan**
 
-
-
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=StefanGherghel2004)](https://github.com/StefanGherghel2004/github-readme-profile)
-
 <!--
 **StefanGherghel2004/StefanGherghel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
